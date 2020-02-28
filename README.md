@@ -5,7 +5,7 @@ A quick and dirty version of sound effects cobbled together from MonoGame source
 
 Only supports Android using the OpenAL bundled with OpenTK.
 
-Intended as a stop gap until the issue is fixed.  Warning, only to be used in emergencies! Is not feature complete and is likely to be unstable, use at yout own risk only if you are effected by the issue. 
+Intended as a stop gap until the issue is fixed.  Warning, only to be used in emergencies! Is not feature complete and is likely to be unstable, use at your own risk only if you are effected by the issue. 
 
 # Usage
 Uses a simple audio manager.  The manager needs to be updated to remove stopped audio, so ensure it gets updated in your game update loop. Simply download, copy the folder to your project directory and make sure it is included, edit as required to fit your framework.
